@@ -9,4 +9,5 @@
 - [x] 2 Potentiometers
 
 
+
 For further details : Refer this [pdf](https://github.com/iamrkg31/solar-tracker/blob/master/Group13_Solar_Tracker.pdf)
